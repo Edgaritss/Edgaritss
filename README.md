@@ -10,7 +10,7 @@
 ![Edgaritss's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgaritss&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgaritss)](https://github.com/edgaritss/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgaritss&layout=compact)](https://github.com/edgaritss/github-readme-stats)
 
 ![Alt Text](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
